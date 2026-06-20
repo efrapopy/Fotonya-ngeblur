@@ -51,7 +51,7 @@ pip install opencv-python cvzone mediapipe
 
 # ▶️ 5. Run Project
 
-python main.py
+python freak.py
 
 ---
 
