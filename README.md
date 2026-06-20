@@ -21,7 +21,7 @@ Download Python: https://www.python.org/downloads/
 
 # 📁 2. Download Project
 
-git clone https://github.com/USERNAME/fotokitablur.git  
+git clone https://github.com/efrapopy/Fotonya-ngeblur.git
 cd fotokitablur
 
 ---
